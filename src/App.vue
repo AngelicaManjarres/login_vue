@@ -2,7 +2,7 @@
   <div class="container">
     <nav>
       <div class="nav-left">
-        <h2>Login App</h2>
+        <h2>Login Demo</h2>
       </div>
 
       <div class="nav-right">

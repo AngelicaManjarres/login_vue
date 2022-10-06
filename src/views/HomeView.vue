@@ -1,9 +1,9 @@
 <template>
   <div class="home">
     <div v-if="!user" class="card">
-      <h2>Welcome!</h2>
+      <h2>Welcome to our website!</h2>
       {{ user }}
-      <p>You're not logged in. Please sign in, or register if you don't have an account</p>
+      <p>You're not logged in. Please sign in, or register if you don't have an account!</p>
       <router-link to="/register">Register</router-link>
       <router-link to="/login">Login</router-link>
     </div>
